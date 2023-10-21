@@ -241,10 +241,10 @@ header{
     }
     .paragraph{
         width: 99%;
-        height: 810px;
+        height: 593px;
         overflow: scroll;
         overflow-x: hidden;
-        border: 0.5px solid green;
+        border: 0.8px solid green;
     }
     .part1{
         flex-direction: column;
